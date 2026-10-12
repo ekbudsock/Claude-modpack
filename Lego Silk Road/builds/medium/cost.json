@@ -1,0 +1,369 @@
+{
+  "parts": 281,
+  "lots": 45,
+  "hidden_parts": 1,
+  "all_bricklink": 38.92,
+  "all_bricklink_parts_only": 26.92,
+  "all_pick_a_brick": 40.86,
+  "all_pick_a_brick_parts_only": 40.86,
+  "optimised_parts_subtotals": {
+    "BrickLink": 26.92,
+    "Pick a Brick": 0,
+    "Bulk generic": 0
+  },
+  "optimised_shipping": 12.0,
+  "bricklink_stores_est": 2,
+  "optimised_total": 38.92,
+  "ppp_all_bricklink": 0.1385,
+  "ppp_parts_only_bricklink": 0.0958,
+  "ppp_optimised": 0.1385,
+  "retail_target_range": [
+    22.48,
+    33.72
+  ],
+  "within_retail_target": false,
+  "rationalisation": {
+    "tiled_parts_actual": 224,
+    "tiled_cost_actual": 20.37,
+    "tiled_parts_small_only": 454,
+    "tiled_cost_small_only": 23.51
+  },
+  "split": {
+    "BrickLink": [
+      {
+        "part": "15254",
+        "color": "Tan",
+        "qty": 2,
+        "unit": 0.35
+      },
+      {
+        "part": "2431",
+        "color": "Dark Tan",
+        "qty": 7,
+        "unit": 0.108
+      },
+      {
+        "part": "2431",
+        "color": "Light Bluish Gray",
+        "qty": 3,
+        "unit": 0.068
+      },
+      {
+        "part": "2456",
+        "color": "Tan",
+        "qty": 1,
+        "unit": 0.18
+      },
+      {
+        "part": "3002",
+        "color": "Tan",
+        "qty": 22,
+        "unit": 0.09
+      },
+      {
+        "part": "3003",
+        "color": "Tan",
+        "qty": 3,
+        "unit": 0.07
+      },
+      {
+        "part": "3004",
+        "color": "Dark Bluish Gray",
+        "qty": 2,
+        "unit": 0.043
+      },
+      {
+        "part": "3004",
+        "color": "Tan",
+        "qty": 52,
+        "unit": 0.05
+      },
+      {
+        "part": "3005",
+        "color": "Tan",
+        "qty": 14,
+        "unit": 0.05
+      },
+      {
+        "part": "3008",
+        "color": "Tan",
+        "qty": 17,
+        "unit": 0.18
+      },
+      {
+        "part": "3009",
+        "color": "Tan",
+        "qty": 1,
+        "unit": 0.12
+      },
+      {
+        "part": "3010",
+        "color": "Dark Bluish Gray",
+        "qty": 2,
+        "unit": 0.068
+      },
+      {
+        "part": "3010",
+        "color": "Tan",
+        "qty": 17,
+        "unit": 0.08
+      },
+      {
+        "part": "3020",
+        "color": "Medium Azure",
+        "qty": 1,
+        "unit": 0.1
+      },
+      {
+        "part": "3020",
+        "color": "Tan",
+        "qty": 1,
+        "unit": 0.08
+      },
+      {
+        "part": "3021",
+        "color": "Dark Tan",
+        "qty": 11,
+        "unit": 0.095
+      },
+      {
+        "part": "3022",
+        "color": "Dark Tan",
+        "qty": 1,
+        "unit": 0.068
+      },
+      {
+        "part": "3022",
+        "color": "Tan",
+        "qty": 2,
+        "unit": 0.05
+      },
+      {
+        "part": "3023",
+        "color": "Dark Tan",
+        "qty": 10,
+        "unit": 0.054
+      },
+      {
+        "part": "3024",
+        "color": "Dark Tan",
+        "qty": 3,
+        "unit": 0.041
+      },
+      {
+        "part": "3030",
+        "color": "Tan",
+        "qty": 1,
+        "unit": 0.45
+      },
+      {
+        "part": "3031",
+        "color": "Reddish Brown",
+        "qty": 1,
+        "unit": 0.21
+      },
+      {
+        "part": "3032",
+        "color": "Tan",
+        "qty": 2,
+        "unit": 0.25
+      },
+      {
+        "part": "3034",
+        "color": "Dark Tan",
+        "qty": 1,
+        "unit": 0.203
+      },
+      {
+        "part": "3034",
+        "color": "Tan",
+        "qty": 1,
+        "unit": 0.15
+      },
+      {
+        "part": "3035",
+        "color": "Tan",
+        "qty": 3,
+        "unit": 0.35
+      },
+      {
+        "part": "3039",
+        "color": "Reddish Brown",
+        "qty": 4,
+        "unit": 0.084
+      },
+      {
+        "part": "3062b",
+        "color": "Reddish Brown",
+        "qty": 8,
+        "unit": 0.053
+      },
+      {
+        "part": "3069b",
+        "color": "Dark Tan",
+        "qty": 3,
+        "unit": 0.054
+      },
+      {
+        "part": "3069b",
+        "color": "Medium Azure",
+        "qty": 2,
+        "unit": 0.05
+      },
+      {
+        "part": "3069b",
+        "color": "White",
+        "qty": 2,
+        "unit": 0.036
+      },
+      {
+        "part": "3070b",
+        "color": "Dark Tan",
+        "qty": 2,
+        "unit": 0.054
+      },
+      {
+        "part": "3460",
+        "color": "Dark Tan",
+        "qty": 7,
+        "unit": 0.162
+      },
+      {
+        "part": "3622",
+        "color": "Dark Bluish Gray",
+        "qty": 4,
+        "unit": 0.06
+      },
+      {
+        "part": "3622",
+        "color": "Tan",
+        "qty": 27,
+        "unit": 0.07
+      },
+      {
+        "part": "3623",
+        "color": "Dark Tan",
+        "qty": 15,
+        "unit": 0.068
+      },
+      {
+        "part": "3659",
+        "color": "Tan",
+        "qty": 3,
+        "unit": 0.12
+      },
+      {
+        "part": "3666",
+        "color": "Dark Tan",
+        "qty": 1,
+        "unit": 0.108
+      },
+      {
+        "part": "3710",
+        "color": "Dark Tan",
+        "qty": 10,
+        "unit": 0.081
+      },
+      {
+        "part": "3710",
+        "color": "Tan",
+        "qty": 1,
+        "unit": 0.06
+      },
+      {
+        "part": "6636",
+        "color": "Light Bluish Gray",
+        "qty": 2,
+        "unit": 0.102
+      },
+      {
+        "part": "87079",
+        "color": "Light Bluish Gray",
+        "qty": 2,
+        "unit": 0.153
+      },
+      {
+        "part": "91405",
+        "color": "Tan",
+        "qty": 1,
+        "unit": 2.5
+      },
+      {
+        "part": "98138",
+        "color": "Trans-Light Blue",
+        "qty": 4,
+        "unit": 0.06
+      },
+      {
+        "part": "99781",
+        "color": "Tan",
+        "qty": 2,
+        "unit": 0.08
+      }
+    ],
+    "Pick a Brick": [],
+    "Bulk generic": []
+  },
+  "by_group": {
+    "wall": {
+      "parts": 101,
+      "bricklink_cost": 8.43
+    },
+    "tower": {
+      "parts": 36,
+      "bricklink_cost": 2.53
+    },
+    "foundation": {
+      "parts": 1,
+      "bricklink_cost": 2.5
+    },
+    "band": {
+      "parts": 27,
+      "bricklink_cost": 2.13
+    },
+    "roof_deck": {
+      "parts": 7,
+      "bricklink_cost": 2.08
+    },
+    "plinth": {
+      "parts": 23,
+      "bricklink_cost": 2.05
+    },
+    "well": {
+      "parts": 25,
+      "bricklink_cost": 1.67
+    },
+    "roof_trim": {
+      "parts": 12,
+      "bricklink_cost": 1.03
+    },
+    "pishtaq": {
+      "parts": 10,
+      "bricklink_cost": 0.91
+    },
+    "parapet": {
+      "parts": 8,
+      "bricklink_cost": 0.79
+    },
+    "paving": {
+      "parts": 7,
+      "bricklink_cost": 0.71
+    },
+    "gate_arch": {
+      "parts": 2,
+      "bricklink_cost": 0.7
+    },
+    "merlon": {
+      "parts": 12,
+      "bricklink_cost": 0.6
+    },
+    "snot": {
+      "parts": 7,
+      "bricklink_cost": 0.43
+    },
+    "arcade_arch": {
+      "parts": 3,
+      "bricklink_cost": 0.36
+    }
+  }
+}

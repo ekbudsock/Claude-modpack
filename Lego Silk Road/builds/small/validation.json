@@ -1,0 +1,41 @@
+{
+  "model": "caravanserai_small",
+  "parts": 124,
+  "checks": {
+    "dimensions": true,
+    "catalog_active_molds_and_colors": true,
+    "no_collisions": true,
+    "all_parts_connected_to_baseplate": true,
+    "spans_and_cantilevers": true,
+    "no_untied_single_column_stacks": true,
+    "snot_5_to_2_alignment": true,
+    "running_bond_in_course": true
+  },
+  "passed": true,
+  "dimensions": {
+    "stud_pitch_mm": 8.0,
+    "plate_mm": 3.2,
+    "brick_mm": 9.6,
+    "brick_equals_3_plates": true,
+    "stud_diameter_mm": 4.8,
+    "stud_height_mm": 1.7,
+    "sidewall_gap_mm": 0.1,
+    "snot_2_studs_equals_5_plates": true
+  },
+  "catalog_problems": [],
+  "collisions": [],
+  "floating_parts": [],
+  "span_problems": [],
+  "column_links": 4,
+  "untied_columns": [],
+  "snot": [],
+  "running_bond": {
+    "seams_checked": 81,
+    "aligned": 0,
+    "longest_vertical_joint_courses": 1,
+    "staggered_pct": 100.0,
+    "aligned_by_layer": []
+  },
+  "connections": 185,
+  "layout_seconds": 0.0
+}

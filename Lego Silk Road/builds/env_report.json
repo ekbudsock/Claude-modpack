@@ -1,0 +1,536 @@
+{
+  "mode": "bpy-module",
+  "bpy": "5.2.2 LTS",
+  "binary_path": "",
+  "background": true,
+  "python": "3.13.16",
+  "ldraw_library": null,
+  "ldraw_importer": null,
+  "geometry_source": "procedural-bpy",
+  "render": {
+    "cycles": true,
+    "devices": [
+      "CPU:Intel Xeon Processor @ 2.80GHz"
+    ]
+  },
+  "templates": {
+    "15254": {
+      "verts": 714,
+      "faces": 571,
+      "open_edges": 120,
+      "size_mm": [
+        47.9,
+        7.9,
+        20.9
+      ],
+      "ms": 19
+    },
+    "2431": {
+      "verts": 352,
+      "faces": 293,
+      "open_edges": 60,
+      "size_mm": [
+        31.9,
+        7.9,
+        3.2
+      ],
+      "ms": 8
+    },
+    "2456": {
+      "verts": 1872,
+      "faces": 1542,
+      "open_edges": 440,
+      "size_mm": [
+        47.9,
+        15.9,
+        11.3
+      ],
+      "ms": 36
+    },
+    "3001": {
+      "verts": 1232,
+      "faces": 1018,
+      "open_edges": 280,
+      "size_mm": [
+        31.9,
+        15.9,
+        11.3
+      ],
+      "ms": 14
+    },
+    "3002": {
+      "verts": 912,
+      "faces": 756,
+      "open_edges": 200,
+      "size_mm": [
+        23.9,
+        15.9,
+        11.3
+      ],
+      "ms": 16
+    },
+    "3003": {
+      "verts": 592,
+      "faces": 494,
+      "open_edges": 120,
+      "size_mm": [
+        15.9,
+        15.9,
+        11.3
+      ],
+      "ms": 10
+    },
+    "3004": {
+      "verts": 352,
+      "faces": 293,
+      "open_edges": 60,
+      "size_mm": [
+        15.9,
+        7.9,
+        11.3
+      ],
+      "ms": 6
+    },
+    "3005": {
+      "verts": 192,
+      "faces": 171,
+      "open_edges": 20,
+      "size_mm": [
+        7.9,
+        7.9,
+        11.3
+      ],
+      "ms": 5
+    },
+    "3008": {
+      "verts": 1312,
+      "faces": 1025,
+      "open_edges": 300,
+      "size_mm": [
+        63.9,
+        7.9,
+        11.3
+      ],
+      "ms": 22
+    },
+    "3009": {
+      "verts": 992,
+      "faces": 781,
+      "open_edges": 220,
+      "size_mm": [
+        47.9,
+        7.9,
+        11.3
+      ],
+      "ms": 18
+    },
+    "3010": {
+      "verts": 672,
+      "faces": 537,
+      "open_edges": 140,
+      "size_mm": [
+        31.9,
+        7.9,
+        11.3
+      ],
+      "ms": 11
+    },
+    "3020": {
+      "verts": 1232,
+      "faces": 1018,
+      "open_edges": 280,
+      "size_mm": [
+        31.9,
+        15.9,
+        4.9
+      ],
+      "ms": 19
+    },
+    "3021": {
+      "verts": 912,
+      "faces": 756,
+      "open_edges": 200,
+      "size_mm": [
+        23.9,
+        15.9,
+        4.9
+      ],
+      "ms": 17
+    },
+    "3022": {
+      "verts": 592,
+      "faces": 494,
+      "open_edges": 120,
+      "size_mm": [
+        15.9,
+        15.9,
+        4.9
+      ],
+      "ms": 8
+    },
+    "3023": {
+      "verts": 352,
+      "faces": 293,
+      "open_edges": 60,
+      "size_mm": [
+        15.9,
+        7.9,
+        4.9
+      ],
+      "ms": 5
+    },
+    "3024": {
+      "verts": 192,
+      "faces": 171,
+      "open_edges": 20,
+      "size_mm": [
+        7.9,
+        7.9,
+        4.9
+      ],
+      "ms": 4
+    },
+    "3028": {
+      "verts": 14672,
+      "faces": 12202,
+      "open_edges": 3640,
+      "size_mm": [
+        95.9,
+        47.9,
+        4.9
+      ],
+      "ms": 194
+    },
+    "3030": {
+      "verts": 7632,
+      "faces": 6330,
+      "open_edges": 1880,
+      "size_mm": [
+        79.9,
+        31.9,
+        4.9
+      ],
+      "ms": 119
+    },
+    "3031": {
+      "verts": 2832,
+      "faces": 2346,
+      "open_edges": 680,
+      "size_mm": [
+        31.9,
+        31.9,
+        4.9
+      ],
+      "ms": 28
+    },
+    "3032": {
+      "verts": 4432,
+      "faces": 3674,
+      "open_edges": 1080,
+      "size_mm": [
+        47.9,
+        31.9,
+        4.9
+      ],
+      "ms": 43
+    },
+    "3033": {
+      "verts": 12112,
+      "faces": 10070,
+      "open_edges": 3000,
+      "size_mm": [
+        79.9,
+        47.9,
+        4.9
+      ],
+      "ms": 148
+    },
+    "3034": {
+      "verts": 2512,
+      "faces": 2066,
+      "open_edges": 600,
+      "size_mm": [
+        63.9,
+        15.9,
+        4.9
+      ],
+      "ms": 30
+    },
+    "3035": {
+      "verts": 6032,
+      "faces": 5002,
+      "open_edges": 1480,
+      "size_mm": [
+        63.9,
+        31.9,
+        4.9
+      ],
+      "ms": 102
+    },
+    "3036": {
+      "verts": 9552,
+      "faces": 7938,
+      "open_edges": 2360,
+      "size_mm": [
+        63.9,
+        47.9,
+        4.9
+      ],
+      "ms": 127
+    },
+    "3039": {
+      "verts": 230,
+      "faces": 189,
+      "open_edges": 40,
+      "size_mm": [
+        15.9,
+        15.9,
+        11.3
+      ],
+      "ms": 6
+    },
+    "3062b": {
+      "verts": 200,
+      "faces": 163,
+      "open_edges": 20,
+      "size_mm": [
+        7.9,
+        7.9,
+        11.3
+      ],
+      "ms": 7
+    },
+    "3068b": {
+      "verts": 272,
+      "faces": 250,
+      "open_edges": 40,
+      "size_mm": [
+        15.9,
+        15.9,
+        3.2
+      ],
+      "ms": 8
+    },
+    "3069b": {
+      "verts": 192,
+      "faces": 171,
+      "open_edges": 20,
+      "size_mm": [
+        15.9,
+        7.9,
+        3.2
+      ],
+      "ms": 8
+    },
+    "3070b": {
+      "verts": 112,
+      "faces": 110,
+      "open_edges": 0,
+      "size_mm": [
+        7.9,
+        7.9,
+        3.2
+      ],
+      "ms": 4
+    },
+    "3460": {
+      "verts": 1312,
+      "faces": 1025,
+      "open_edges": 300,
+      "size_mm": [
+        63.9,
+        7.9,
+        4.9
+      ],
+      "ms": 18
+    },
+    "3622": {
+      "verts": 512,
+      "faces": 415,
+      "open_edges": 100,
+      "size_mm": [
+        23.9,
+        7.9,
+        11.3
+      ],
+      "ms": 10
+    },
+    "3623": {
+      "verts": 512,
+      "faces": 415,
+      "open_edges": 100,
+      "size_mm": [
+        23.9,
+        7.9,
+        4.9
+      ],
+      "ms": 10
+    },
+    "3659": {
+      "verts": 570,
+      "faces": 465,
+      "open_edges": 80,
+      "size_mm": [
+        31.9,
+        7.9,
+        11.3
+      ],
+      "ms": 11
+    },
+    "3666": {
+      "verts": 992,
+      "faces": 781,
+      "open_edges": 220,
+      "size_mm": [
+        47.9,
+        7.9,
+        4.9
+      ],
+      "ms": 17
+    },
+    "3710": {
+      "verts": 672,
+      "faces": 537,
+      "open_edges": 140,
+      "size_mm": [
+        31.9,
+        7.9,
+        4.9
+      ],
+      "ms": 13
+    },
+    "3795": {
+      "verts": 1872,
+      "faces": 1542,
+      "open_edges": 440,
+      "size_mm": [
+        47.9,
+        15.9,
+        4.9
+      ],
+      "ms": 24
+    },
+    "3811": {
+      "verts": 81976,
+      "faces": 62518,
+      "open_edges": 20480,
+      "size_mm": [
+        255.9,
+        255.9,
+        3.3
+      ],
+      "ms": 1153
+    },
+    "3832": {
+      "verts": 3152,
+      "faces": 2590,
+      "open_edges": 760,
+      "size_mm": [
+        79.9,
+        15.9,
+        4.9
+      ],
+      "ms": 52
+    },
+    "3958": {
+      "verts": 6992,
+      "faces": 5806,
+      "open_edges": 1720,
+      "size_mm": [
+        47.9,
+        47.9,
+        4.9
+      ],
+      "ms": 93
+    },
+    "41539": {
+      "verts": 13072,
+      "faces": 10874,
+      "open_edges": 3240,
+      "size_mm": [
+        63.9,
+        63.9,
+        4.9
+      ],
+      "ms": 234
+    },
+    "4162": {
+      "verts": 672,
+      "faces": 537,
+      "open_edges": 140,
+      "size_mm": [
+        63.9,
+        7.9,
+        3.2
+      ],
+      "ms": 14
+    },
+    "63864": {
+      "verts": 272,
+      "faces": 232,
+      "open_edges": 40,
+      "size_mm": [
+        23.9,
+        7.9,
+        3.2
+      ],
+      "ms": 7
+    },
+    "6636": {
+      "verts": 512,
+      "faces": 415,
+      "open_edges": 100,
+      "size_mm": [
+        47.9,
+        7.9,
+        3.2
+      ],
+      "ms": 9
+    },
+    "87079": {
+      "verts": 592,
+      "faces": 530,
+      "open_edges": 120,
+      "size_mm": [
+        31.9,
+        15.9,
+        3.2
+      ],
+      "ms": 11
+    },
+    "91405": {
+      "verts": 56592,
+      "faces": 47226,
+      "open_edges": 14120,
+      "size_mm": [
+        127.9,
+        127.9,
+        4.9
+      ],
+      "ms": 808
+    },
+    "98138": {
+      "verts": 120,
+      "faces": 102,
+      "open_edges": 0,
+      "size_mm": [
+        7.9,
+        7.9,
+        3.2
+      ],
+      "ms": 7
+    },
+    "99781": {
+      "verts": 432,
+      "faces": 352,
+      "open_edges": 80,
+      "size_mm": [
+        15.9,
+        12.85,
+        8.0
+      ],
+      "ms": 5
+    }
+  },
+  "ready": true
+}

@@ -1,0 +1,100 @@
+{
+  "model": "caravanserai_medium",
+  "parts": 281,
+  "checks": {
+    "dimensions": true,
+    "catalog_active_molds_and_colors": true,
+    "no_collisions": true,
+    "all_parts_connected_to_baseplate": true,
+    "spans_and_cantilevers": true,
+    "no_untied_single_column_stacks": true,
+    "snot_5_to_2_alignment": true,
+    "running_bond_in_course": true
+  },
+  "passed": true,
+  "dimensions": {
+    "stud_pitch_mm": 8.0,
+    "plate_mm": 3.2,
+    "brick_mm": 9.6,
+    "brick_equals_3_plates": true,
+    "stud_diameter_mm": 4.8,
+    "stud_height_mm": 1.7,
+    "sidewall_gap_mm": 0.1,
+    "snot_2_studs_equals_5_plates": true
+  },
+  "catalog_problems": [],
+  "collisions": [],
+  "floating_parts": [],
+  "span_problems": [],
+  "column_links": 6,
+  "untied_columns": [],
+  "snot": [
+    {
+      "index": 275,
+      "part": "3020",
+      "group": "snot_panel",
+      "height_mm": 16.0,
+      "bottom_on_plate_grid": true,
+      "plates_spanned": 5.0,
+      "ok": true
+    },
+    {
+      "index": 276,
+      "part": "3069b",
+      "group": "snot_tile",
+      "height_mm": 8.0,
+      "bottom_on_plate_grid": true,
+      "ok": true
+    },
+    {
+      "index": 277,
+      "part": "3069b",
+      "group": "snot_tile",
+      "height_mm": 8.0,
+      "bottom_on_plate_grid": true,
+      "ok": true
+    },
+    {
+      "index": 278,
+      "part": "3069b",
+      "group": "snot_tile",
+      "height_mm": 8.0,
+      "bottom_on_plate_grid": false,
+      "ok": true
+    },
+    {
+      "index": 279,
+      "part": "3069b",
+      "group": "snot_tile",
+      "height_mm": 8.0,
+      "bottom_on_plate_grid": false,
+      "ok": true
+    }
+  ],
+  "running_bond": {
+    "seams_checked": 270,
+    "aligned": 1,
+    "longest_vertical_joint_courses": 2,
+    "staggered_pct": 99.63,
+    "aligned_by_layer": [
+      {
+        "group": "roof_deck",
+        "z": 15,
+        "aligned": [
+          [
+            [
+              9,
+              12
+            ],
+            [
+              10,
+              12
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  "connections": 484,
+  "layout_seconds": 23.1
+}

@@ -1,0 +1,46 @@
+Part_ID,Part_Name,Color_ID,Color_Name,Quantity,Category
+3021,Plate 2 x 3,69,Dark Tan,11,Plate
+3022,Plate 2 x 2,69,Dark Tan,1,Plate
+3023,Plate 1 x 2,69,Dark Tan,10,Plate
+3024,Plate 1 x 1,69,Dark Tan,3,Plate
+3034,Plate 2 x 8,69,Dark Tan,1,Plate
+3460,Plate 1 x 8,69,Dark Tan,7,Plate
+3623,Plate 1 x 3,69,Dark Tan,15,Plate
+3666,Plate 1 x 6,69,Dark Tan,1,Plate
+3710,Plate 1 x 4,69,Dark Tan,10,Plate
+3020,Plate 2 x 4,156,Medium Azure,1,Plate
+3031,Plate 4 x 4,88,Reddish Brown,1,Plate
+3020,Plate 2 x 4,2,Tan,1,Plate
+3022,Plate 2 x 2,2,Tan,2,Plate
+3030,Plate 4 x 10,2,Tan,1,Plate
+3032,Plate 4 x 6,2,Tan,2,Plate
+3034,Plate 2 x 8,2,Tan,1,Plate
+3035,Plate 4 x 8,2,Tan,3,Plate
+3710,Plate 1 x 4,2,Tan,1,Plate
+91405,Plate 16 x 16,2,Tan,1,Plate
+3004,Brick 1 x 2,85,Dark Bluish Gray,2,Brick
+3010,Brick 1 x 4,85,Dark Bluish Gray,2,Brick
+3622,Brick 1 x 3,85,Dark Bluish Gray,4,Brick
+3062b,"Brick, Round 1 x 1 Open Stud",88,Reddish Brown,8,Brick
+15254,"Brick, Arch 1 x 6 x 2",2,Tan,2,Brick
+2456,Brick 2 x 6,2,Tan,1,Brick
+3002,Brick 2 x 3,2,Tan,22,Brick
+3003,Brick 2 x 2,2,Tan,3,Brick
+3004,Brick 1 x 2,2,Tan,52,Brick
+3005,Brick 1 x 1,2,Tan,14,Brick
+3008,Brick 1 x 8,2,Tan,17,Brick
+3009,Brick 1 x 6,2,Tan,1,Brick
+3010,Brick 1 x 4,2,Tan,17,Brick
+3622,Brick 1 x 3,2,Tan,27,Brick
+3659,"Brick, Arch 1 x 4",2,Tan,3,Brick
+2431,Tile 1 x 4,69,Dark Tan,7,Tile
+3069b,Tile 1 x 2,69,Dark Tan,3,Tile
+3070b,Tile 1 x 1,69,Dark Tan,2,Tile
+2431,Tile 1 x 4,86,Light Bluish Gray,3,Tile
+6636,Tile 1 x 6,86,Light Bluish Gray,2,Tile
+87079,Tile 2 x 4,86,Light Bluish Gray,2,Tile
+3069b,Tile 1 x 2,156,Medium Azure,2,Tile
+98138,"Tile, Round 1 x 1",15,Trans-Light Blue,4,Tile
+3069b,Tile 1 x 2,1,White,2,Tile
+3039,Slope 45 2 x 2,88,Reddish Brown,4,Slope
+99781,Bracket 1 x 2 - 1 x 2,2,Tan,2,Bracket

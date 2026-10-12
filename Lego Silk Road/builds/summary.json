@@ -1,0 +1,35 @@
+{
+  "small": {
+    "passed": true,
+    "parts": 124,
+    "lots": 26,
+    "optimised_total": 16.95,
+    "renders": [
+      "/home/user/Claude-modpack/Lego Silk Road/builds/small/renders/hero_perspective.png",
+      "/home/user/Claude-modpack/Lego Silk Road/builds/small/renders/profile_elevation.png",
+      "/home/user/Claude-modpack/Lego Silk Road/builds/small/renders/detail_topdown.png"
+    ]
+  },
+  "medium": {
+    "passed": true,
+    "parts": 281,
+    "lots": 45,
+    "optimised_total": 38.92,
+    "renders": [
+      "/home/user/Claude-modpack/Lego Silk Road/builds/medium/renders/hero_perspective.png",
+      "/home/user/Claude-modpack/Lego Silk Road/builds/medium/renders/profile_elevation.png",
+      "/home/user/Claude-modpack/Lego Silk Road/builds/medium/renders/detail_topdown.png"
+    ]
+  },
+  "large": {
+    "passed": true,
+    "parts": 676,
+    "lots": 57,
+    "optimised_total": 88.36,
+    "renders": [
+      "/home/user/Claude-modpack/Lego Silk Road/builds/large/renders/hero_perspective.png",
+      "/home/user/Claude-modpack/Lego Silk Road/builds/large/renders/profile_elevation.png",
+      "/home/user/Claude-modpack/Lego Silk Road/builds/large/renders/detail_topdown.png"
+    ]
+  }
+}

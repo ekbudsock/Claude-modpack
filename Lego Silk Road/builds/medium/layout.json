@@ -1,0 +1,2851 @@
+{
+ "name": "caravanserai_medium",
+ "base_size_studs": 16,
+ "units": {
+  "x_y": "studs (8.0 mm)",
+  "z": "plates (3.2 mm)",
+  "sideways_mm": "x_center, y_back_face, z_center"
+ },
+ "parts": [
+  {
+   "part": "91405",
+   "color": "Tan",
+   "x": 0,
+   "y": 0,
+   "z": 0,
+   "rot": 0,
+   "collection": "01_Baseplate_Foundation",
+   "group": "foundation"
+  },
+  {
+   "part": "15254",
+   "color": "Tan",
+   "x": 5,
+   "y": 0,
+   "z": 9,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "gate_arch"
+  },
+  {
+   "part": "15254",
+   "color": "Tan",
+   "x": 5,
+   "y": 3,
+   "z": 9,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "gate_arch"
+  },
+  {
+   "part": "3659",
+   "color": "Tan",
+   "x": 6,
+   "y": 12,
+   "z": 12,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "arcade_arch"
+  },
+  {
+   "part": "3659",
+   "color": "Tan",
+   "x": 3,
+   "y": 6,
+   "z": 12,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "arcade_arch"
+  },
+  {
+   "part": "3659",
+   "color": "Tan",
+   "x": 12,
+   "y": 6,
+   "z": 12,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "arcade_arch"
+  },
+  {
+   "part": "3460",
+   "color": "Dark Tan",
+   "x": 0,
+   "y": 0,
+   "z": 1,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3460",
+   "color": "Dark Tan",
+   "x": 0,
+   "y": 8,
+   "z": 1,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3021",
+   "color": "Dark Tan",
+   "x": 1,
+   "y": 0,
+   "z": 1,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3021",
+   "color": "Dark Tan",
+   "x": 1,
+   "y": 13,
+   "z": 1,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3623",
+   "color": "Dark Tan",
+   "x": 3,
+   "y": 0,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3710",
+   "color": "Dark Tan",
+   "x": 3,
+   "y": 3,
+   "z": 1,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3460",
+   "color": "Dark Tan",
+   "x": 3,
+   "y": 15,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3023",
+   "color": "Dark Tan",
+   "x": 4,
+   "y": 3,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3023",
+   "color": "Dark Tan",
+   "x": 5,
+   "y": 1,
+   "z": 1,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3666",
+   "color": "Dark Tan",
+   "x": 10,
+   "y": 0,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3623",
+   "color": "Dark Tan",
+   "x": 10,
+   "y": 1,
+   "z": 1,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3023",
+   "color": "Dark Tan",
+   "x": 11,
+   "y": 3,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3710",
+   "color": "Dark Tan",
+   "x": 11,
+   "y": 15,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3623",
+   "color": "Dark Tan",
+   "x": 12,
+   "y": 4,
+   "z": 1,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3021",
+   "color": "Dark Tan",
+   "x": 13,
+   "y": 1,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3021",
+   "color": "Dark Tan",
+   "x": 13,
+   "y": 13,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3460",
+   "color": "Dark Tan",
+   "x": 15,
+   "y": 3,
+   "z": 1,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3023",
+   "color": "Dark Tan",
+   "x": 15,
+   "y": 11,
+   "z": 1,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3024",
+   "color": "Dark Tan",
+   "x": 15,
+   "y": 15,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3710",
+   "color": "Dark Tan",
+   "x": 3,
+   "y": 9,
+   "z": 1,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3623",
+   "color": "Dark Tan",
+   "x": 4,
+   "y": 12,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3710",
+   "color": "Dark Tan",
+   "x": 9,
+   "y": 12,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3623",
+   "color": "Dark Tan",
+   "x": 12,
+   "y": 9,
+   "z": 1,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "plinth"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 0,
+   "y": 0,
+   "z": 2,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 2,
+   "y": 0,
+   "z": 2,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 5,
+   "y": 0,
+   "z": 2,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 10,
+   "y": 0,
+   "z": 2,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 11,
+   "y": 0,
+   "z": 2,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 13,
+   "y": 0,
+   "z": 2,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 2,
+   "y": 1,
+   "z": 2,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 13,
+   "y": 2,
+   "z": 2,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 15,
+   "y": 2,
+   "z": 2,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 0,
+   "y": 3,
+   "z": 2,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 3,
+   "y": 3,
+   "z": 2,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 10,
+   "y": 3,
+   "z": 2,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 12,
+   "y": 3,
+   "z": 2,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 3,
+   "y": 4,
+   "z": 2,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 15,
+   "y": 10,
+   "z": 2,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 0,
+   "y": 11,
+   "z": 2,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 0,
+   "y": 13,
+   "z": 2,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 13,
+   "y": 13,
+   "z": 2,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3005",
+   "color": "Tan",
+   "x": 14,
+   "y": 13,
+   "z": 2,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3003",
+   "color": "Tan",
+   "x": 14,
+   "y": 14,
+   "z": 2,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 0,
+   "y": 15,
+   "z": 2,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 8,
+   "y": 15,
+   "z": 2,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3005",
+   "color": "Tan",
+   "x": 12,
+   "y": 15,
+   "z": 2,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 3,
+   "y": 9,
+   "z": 2,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 3,
+   "y": 12,
+   "z": 2,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 12,
+   "y": 9,
+   "z": 2,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 9,
+   "y": 12,
+   "z": 2,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 0,
+   "y": 0,
+   "z": 5,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 0,
+   "y": 8,
+   "z": 5,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 1,
+   "y": 0,
+   "z": 5,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 1,
+   "y": 13,
+   "z": 5,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 3,
+   "y": 0,
+   "z": 5,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 3,
+   "y": 3,
+   "z": 5,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 3,
+   "y": 15,
+   "z": 5,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 4,
+   "y": 3,
+   "z": 5,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 5,
+   "y": 1,
+   "z": 5,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3009",
+   "color": "Tan",
+   "x": 10,
+   "y": 0,
+   "z": 5,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 10,
+   "y": 1,
+   "z": 5,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 11,
+   "y": 3,
+   "z": 5,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 11,
+   "y": 15,
+   "z": 5,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 12,
+   "y": 4,
+   "z": 5,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 13,
+   "y": 1,
+   "z": 5,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 13,
+   "y": 13,
+   "z": 5,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 15,
+   "y": 3,
+   "z": 5,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 15,
+   "y": 11,
+   "z": 5,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3005",
+   "color": "Tan",
+   "x": 15,
+   "y": 15,
+   "z": 5,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 3,
+   "y": 9,
+   "z": 5,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 4,
+   "y": 12,
+   "z": 5,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 9,
+   "y": 12,
+   "z": 5,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 12,
+   "y": 9,
+   "z": 5,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3021",
+   "color": "Dark Tan",
+   "x": 0,
+   "y": 0,
+   "z": 8,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3623",
+   "color": "Dark Tan",
+   "x": 2,
+   "y": 0,
+   "z": 8,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3710",
+   "color": "Dark Tan",
+   "x": 5,
+   "y": 0,
+   "z": 8,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3623",
+   "color": "Dark Tan",
+   "x": 10,
+   "y": 0,
+   "z": 8,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3023",
+   "color": "Dark Tan",
+   "x": 11,
+   "y": 0,
+   "z": 8,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3021",
+   "color": "Dark Tan",
+   "x": 13,
+   "y": 0,
+   "z": 8,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3023",
+   "color": "Dark Tan",
+   "x": 2,
+   "y": 1,
+   "z": 8,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3023",
+   "color": "Dark Tan",
+   "x": 13,
+   "y": 2,
+   "z": 8,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3460",
+   "color": "Dark Tan",
+   "x": 15,
+   "y": 2,
+   "z": 8,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3460",
+   "color": "Dark Tan",
+   "x": 0,
+   "y": 3,
+   "z": 8,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3023",
+   "color": "Dark Tan",
+   "x": 3,
+   "y": 3,
+   "z": 8,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3023",
+   "color": "Dark Tan",
+   "x": 10,
+   "y": 3,
+   "z": 8,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3710",
+   "color": "Dark Tan",
+   "x": 12,
+   "y": 3,
+   "z": 8,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3623",
+   "color": "Dark Tan",
+   "x": 3,
+   "y": 4,
+   "z": 8,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3710",
+   "color": "Dark Tan",
+   "x": 15,
+   "y": 10,
+   "z": 8,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3023",
+   "color": "Dark Tan",
+   "x": 0,
+   "y": 11,
+   "z": 8,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3021",
+   "color": "Dark Tan",
+   "x": 0,
+   "y": 13,
+   "z": 8,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3623",
+   "color": "Dark Tan",
+   "x": 13,
+   "y": 13,
+   "z": 8,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3024",
+   "color": "Dark Tan",
+   "x": 14,
+   "y": 13,
+   "z": 8,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3022",
+   "color": "Dark Tan",
+   "x": 14,
+   "y": 14,
+   "z": 8,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3460",
+   "color": "Dark Tan",
+   "x": 0,
+   "y": 15,
+   "z": 8,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3710",
+   "color": "Dark Tan",
+   "x": 8,
+   "y": 15,
+   "z": 8,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3024",
+   "color": "Dark Tan",
+   "x": 12,
+   "y": 15,
+   "z": 8,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3623",
+   "color": "Dark Tan",
+   "x": 3,
+   "y": 9,
+   "z": 8,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3710",
+   "color": "Dark Tan",
+   "x": 3,
+   "y": 12,
+   "z": 8,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3710",
+   "color": "Dark Tan",
+   "x": 12,
+   "y": 9,
+   "z": 8,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3623",
+   "color": "Dark Tan",
+   "x": 9,
+   "y": 12,
+   "z": 8,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "band"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 0,
+   "y": 0,
+   "z": 9,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 0,
+   "y": 8,
+   "z": 9,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 1,
+   "y": 0,
+   "z": 9,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 1,
+   "y": 13,
+   "z": 9,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 3,
+   "y": 0,
+   "z": 9,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 3,
+   "y": 15,
+   "z": 9,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 11,
+   "y": 0,
+   "z": 9,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 11,
+   "y": 15,
+   "z": 9,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 13,
+   "y": 1,
+   "z": 9,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 13,
+   "y": 13,
+   "z": 9,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3005",
+   "color": "Tan",
+   "x": 15,
+   "y": 0,
+   "z": 9,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 15,
+   "y": 3,
+   "z": 9,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 15,
+   "y": 11,
+   "z": 9,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3005",
+   "color": "Tan",
+   "x": 15,
+   "y": 15,
+   "z": 9,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 3,
+   "y": 3,
+   "z": 9,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3005",
+   "color": "Tan",
+   "x": 4,
+   "y": 3,
+   "z": 9,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 3,
+   "y": 9,
+   "z": 9,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 4,
+   "y": 12,
+   "z": 9,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 5,
+   "y": 1,
+   "z": 9,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 9,
+   "y": 12,
+   "z": 9,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 12,
+   "y": 9,
+   "z": 9,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 10,
+   "y": 1,
+   "z": 9,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 11,
+   "y": 3,
+   "z": 9,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 12,
+   "y": 4,
+   "z": 9,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 0,
+   "y": 0,
+   "z": 12,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 2,
+   "y": 0,
+   "z": 12,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 11,
+   "y": 0,
+   "z": 12,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 13,
+   "y": 0,
+   "z": 12,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 2,
+   "y": 1,
+   "z": 12,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 13,
+   "y": 2,
+   "z": 12,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 15,
+   "y": 2,
+   "z": 12,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 0,
+   "y": 3,
+   "z": 12,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 15,
+   "y": 10,
+   "z": 12,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 0,
+   "y": 11,
+   "z": 12,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 0,
+   "y": 13,
+   "z": 12,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 13,
+   "y": 13,
+   "z": 12,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3005",
+   "color": "Tan",
+   "x": 14,
+   "y": 13,
+   "z": 12,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3003",
+   "color": "Tan",
+   "x": 14,
+   "y": 14,
+   "z": 12,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 0,
+   "y": 15,
+   "z": 12,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3010",
+   "color": "Tan",
+   "x": 8,
+   "y": 15,
+   "z": 12,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3005",
+   "color": "Tan",
+   "x": 12,
+   "y": 15,
+   "z": 12,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 3,
+   "y": 3,
+   "z": 12,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 3,
+   "y": 4,
+   "z": 12,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 3,
+   "y": 10,
+   "z": 12,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 3,
+   "y": 12,
+   "z": 12,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 5,
+   "y": 1,
+   "z": 12,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 10,
+   "y": 1,
+   "z": 12,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 12,
+   "y": 10,
+   "z": 12,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 10,
+   "y": 12,
+   "z": 12,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3005",
+   "color": "Tan",
+   "x": 11,
+   "y": 3,
+   "z": 12,
+   "rot": 0,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 12,
+   "y": 3,
+   "z": 12,
+   "rot": 90,
+   "collection": "02_Structural_Core",
+   "group": "wall"
+  },
+  {
+   "part": "6636",
+   "color": "Light Bluish Gray",
+   "x": 5,
+   "y": 5,
+   "z": 1,
+   "rot": 0,
+   "collection": "01_Baseplate_Foundation",
+   "group": "paving"
+  },
+  {
+   "part": "2431",
+   "color": "Light Bluish Gray",
+   "x": 5,
+   "y": 6,
+   "z": 1,
+   "rot": 90,
+   "collection": "01_Baseplate_Foundation",
+   "group": "paving"
+  },
+  {
+   "part": "6636",
+   "color": "Light Bluish Gray",
+   "x": 5,
+   "y": 10,
+   "z": 1,
+   "rot": 0,
+   "collection": "01_Baseplate_Foundation",
+   "group": "paving"
+  },
+  {
+   "part": "87079",
+   "color": "Light Bluish Gray",
+   "x": 6,
+   "y": 0,
+   "z": 1,
+   "rot": 0,
+   "collection": "01_Baseplate_Foundation",
+   "group": "paving"
+  },
+  {
+   "part": "87079",
+   "color": "Light Bluish Gray",
+   "x": 6,
+   "y": 2,
+   "z": 1,
+   "rot": 0,
+   "collection": "01_Baseplate_Foundation",
+   "group": "paving"
+  },
+  {
+   "part": "2431",
+   "color": "Light Bluish Gray",
+   "x": 6,
+   "y": 4,
+   "z": 1,
+   "rot": 0,
+   "collection": "01_Baseplate_Foundation",
+   "group": "paving"
+  },
+  {
+   "part": "2431",
+   "color": "Light Bluish Gray",
+   "x": 10,
+   "y": 6,
+   "z": 1,
+   "rot": 90,
+   "collection": "01_Baseplate_Foundation",
+   "group": "paving"
+  },
+  {
+   "part": "98138",
+   "color": "Trans-Light Blue",
+   "x": 8,
+   "y": 7,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well_water"
+  },
+  {
+   "part": "98138",
+   "color": "Trans-Light Blue",
+   "x": 8,
+   "y": 8,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well_water"
+  },
+  {
+   "part": "98138",
+   "color": "Trans-Light Blue",
+   "x": 7,
+   "y": 7,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well_water"
+  },
+  {
+   "part": "98138",
+   "color": "Trans-Light Blue",
+   "x": 7,
+   "y": 8,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well_water"
+  },
+  {
+   "part": "3010",
+   "color": "Dark Bluish Gray",
+   "x": 6,
+   "y": 6,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well"
+  },
+  {
+   "part": "3622",
+   "color": "Dark Bluish Gray",
+   "x": 6,
+   "y": 7,
+   "z": 1,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "well"
+  },
+  {
+   "part": "3622",
+   "color": "Dark Bluish Gray",
+   "x": 7,
+   "y": 9,
+   "z": 1,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well"
+  },
+  {
+   "part": "3004",
+   "color": "Dark Bluish Gray",
+   "x": 9,
+   "y": 7,
+   "z": 1,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "well"
+  },
+  {
+   "part": "3622",
+   "color": "Dark Bluish Gray",
+   "x": 6,
+   "y": 6,
+   "z": 4,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "well"
+  },
+  {
+   "part": "3004",
+   "color": "Dark Bluish Gray",
+   "x": 7,
+   "y": 6,
+   "z": 4,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well"
+  },
+  {
+   "part": "3010",
+   "color": "Dark Bluish Gray",
+   "x": 9,
+   "y": 6,
+   "z": 4,
+   "rot": 90,
+   "collection": "03_Exterior_Facade",
+   "group": "well"
+  },
+  {
+   "part": "3622",
+   "color": "Dark Bluish Gray",
+   "x": 6,
+   "y": 9,
+   "z": 4,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well"
+  },
+  {
+   "part": "3062b",
+   "color": "Reddish Brown",
+   "x": 6,
+   "y": 6,
+   "z": 7,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well_post"
+  },
+  {
+   "part": "3062b",
+   "color": "Reddish Brown",
+   "x": 9,
+   "y": 6,
+   "z": 7,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well_post"
+  },
+  {
+   "part": "3062b",
+   "color": "Reddish Brown",
+   "x": 6,
+   "y": 9,
+   "z": 7,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well_post"
+  },
+  {
+   "part": "3062b",
+   "color": "Reddish Brown",
+   "x": 9,
+   "y": 9,
+   "z": 7,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well_post"
+  },
+  {
+   "part": "3062b",
+   "color": "Reddish Brown",
+   "x": 6,
+   "y": 6,
+   "z": 10,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well_post"
+  },
+  {
+   "part": "3062b",
+   "color": "Reddish Brown",
+   "x": 9,
+   "y": 6,
+   "z": 10,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well_post"
+  },
+  {
+   "part": "3062b",
+   "color": "Reddish Brown",
+   "x": 6,
+   "y": 9,
+   "z": 10,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well_post"
+  },
+  {
+   "part": "3062b",
+   "color": "Reddish Brown",
+   "x": 9,
+   "y": 9,
+   "z": 10,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well_post"
+  },
+  {
+   "part": "3031",
+   "color": "Reddish Brown",
+   "x": 6,
+   "y": 6,
+   "z": 13,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well_roof"
+  },
+  {
+   "part": "3039",
+   "color": "Reddish Brown",
+   "x": 6,
+   "y": 6,
+   "z": 14,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well_roof"
+  },
+  {
+   "part": "3039",
+   "color": "Reddish Brown",
+   "x": 8,
+   "y": 6,
+   "z": 14,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "well_roof"
+  },
+  {
+   "part": "3039",
+   "color": "Reddish Brown",
+   "x": 6,
+   "y": 8,
+   "z": 14,
+   "rot": 180,
+   "collection": "03_Exterior_Facade",
+   "group": "well_roof"
+  },
+  {
+   "part": "3039",
+   "color": "Reddish Brown",
+   "x": 8,
+   "y": 8,
+   "z": 14,
+   "rot": 180,
+   "collection": "03_Exterior_Facade",
+   "group": "well_roof"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 3,
+   "y": 15,
+   "z": 19,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 6,
+   "y": 15,
+   "z": 19,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 9,
+   "y": 15,
+   "z": 19,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "merlon"
+  },
+  {
+   "part": "3005",
+   "color": "Tan",
+   "x": 12,
+   "y": 15,
+   "z": 19,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 0,
+   "y": 3,
+   "z": 19,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 0,
+   "y": 6,
+   "z": 19,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 0,
+   "y": 9,
+   "z": 19,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "merlon"
+  },
+  {
+   "part": "3005",
+   "color": "Tan",
+   "x": 0,
+   "y": 12,
+   "z": 19,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 15,
+   "y": 3,
+   "z": 19,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 15,
+   "y": 6,
+   "z": 19,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 15,
+   "y": 9,
+   "z": 19,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "merlon"
+  },
+  {
+   "part": "3005",
+   "color": "Tan",
+   "x": 15,
+   "y": 12,
+   "z": 19,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "merlon"
+  },
+  {
+   "part": "3035",
+   "color": "Tan",
+   "x": 0,
+   "y": 0,
+   "z": 15,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "roof_deck"
+  },
+  {
+   "part": "3035",
+   "color": "Tan",
+   "x": 0,
+   "y": 8,
+   "z": 15,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "roof_deck"
+  },
+  {
+   "part": "3030",
+   "color": "Tan",
+   "x": 4,
+   "y": 0,
+   "z": 15,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "roof_deck"
+  },
+  {
+   "part": "3032",
+   "color": "Tan",
+   "x": 4,
+   "y": 12,
+   "z": 15,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "roof_deck"
+  },
+  {
+   "part": "3032",
+   "color": "Tan",
+   "x": 10,
+   "y": 12,
+   "z": 15,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "roof_deck"
+  },
+  {
+   "part": "3035",
+   "color": "Tan",
+   "x": 12,
+   "y": 4,
+   "z": 15,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "roof_deck"
+  },
+  {
+   "part": "3020",
+   "color": "Tan",
+   "x": 14,
+   "y": 0,
+   "z": 15,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "roof_deck"
+  },
+  {
+   "part": "2431",
+   "color": "Dark Tan",
+   "x": 3,
+   "y": 3,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "roof_trim"
+  },
+  {
+   "part": "2431",
+   "color": "Dark Tan",
+   "x": 7,
+   "y": 3,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "roof_trim"
+  },
+  {
+   "part": "3070b",
+   "color": "Dark Tan",
+   "x": 11,
+   "y": 3,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "roof_trim"
+  },
+  {
+   "part": "2431",
+   "color": "Dark Tan",
+   "x": 12,
+   "y": 3,
+   "z": 16,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "roof_trim"
+  },
+  {
+   "part": "3069b",
+   "color": "Dark Tan",
+   "x": 3,
+   "y": 4,
+   "z": 16,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "roof_trim"
+  },
+  {
+   "part": "2431",
+   "color": "Dark Tan",
+   "x": 3,
+   "y": 6,
+   "z": 16,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "roof_trim"
+  },
+  {
+   "part": "2431",
+   "color": "Dark Tan",
+   "x": 12,
+   "y": 7,
+   "z": 16,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "roof_trim"
+  },
+  {
+   "part": "3069b",
+   "color": "Dark Tan",
+   "x": 3,
+   "y": 10,
+   "z": 16,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "roof_trim"
+  },
+  {
+   "part": "3069b",
+   "color": "Dark Tan",
+   "x": 12,
+   "y": 11,
+   "z": 16,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "roof_trim"
+  },
+  {
+   "part": "2431",
+   "color": "Dark Tan",
+   "x": 3,
+   "y": 12,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "roof_trim"
+  },
+  {
+   "part": "2431",
+   "color": "Dark Tan",
+   "x": 7,
+   "y": 12,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "roof_trim"
+  },
+  {
+   "part": "3070b",
+   "color": "Dark Tan",
+   "x": 11,
+   "y": 12,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "roof_trim"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 0,
+   "y": 3,
+   "z": 16,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "parapet"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 0,
+   "y": 11,
+   "z": 16,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "parapet"
+  },
+  {
+   "part": "3005",
+   "color": "Tan",
+   "x": 3,
+   "y": 0,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "parapet"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 3,
+   "y": 15,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "parapet"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 11,
+   "y": 15,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "parapet"
+  },
+  {
+   "part": "3005",
+   "color": "Tan",
+   "x": 12,
+   "y": 0,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "parapet"
+  },
+  {
+   "part": "3008",
+   "color": "Tan",
+   "x": 15,
+   "y": 3,
+   "z": 16,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "parapet"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 15,
+   "y": 11,
+   "z": 16,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "parapet"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 0,
+   "y": 0,
+   "z": 23,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower_merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 2,
+   "y": 1,
+   "z": 23,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower_merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 0,
+   "y": 1,
+   "z": 23,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower_merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 13,
+   "y": 0,
+   "z": 23,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower_merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 15,
+   "y": 1,
+   "z": 23,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower_merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 13,
+   "y": 1,
+   "z": 23,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower_merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 0,
+   "y": 13,
+   "z": 23,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower_merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 2,
+   "y": 14,
+   "z": 23,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower_merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 0,
+   "y": 14,
+   "z": 23,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower_merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 13,
+   "y": 13,
+   "z": 23,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower_merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 15,
+   "y": 14,
+   "z": 23,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower_merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 13,
+   "y": 14,
+   "z": 23,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower_merlon"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 0,
+   "y": 0,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 0,
+   "y": 2,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 0,
+   "y": 13,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 0,
+   "y": 15,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 13,
+   "y": 0,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 13,
+   "y": 2,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 13,
+   "y": 13,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 13,
+   "y": 15,
+   "z": 16,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 0,
+   "y": 0,
+   "z": 19,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 2,
+   "y": 0,
+   "z": 19,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 0,
+   "y": 13,
+   "z": 19,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 2,
+   "y": 13,
+   "z": 19,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 13,
+   "y": 0,
+   "z": 19,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 15,
+   "y": 0,
+   "z": 19,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3002",
+   "color": "Tan",
+   "x": 13,
+   "y": 13,
+   "z": 19,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3622",
+   "color": "Tan",
+   "x": 15,
+   "y": 13,
+   "z": 19,
+   "rot": 90,
+   "collection": "04_Roof_Details",
+   "group": "tower"
+  },
+  {
+   "part": "3021",
+   "color": "Dark Tan",
+   "x": 0,
+   "y": 0,
+   "z": 22,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower_cap"
+  },
+  {
+   "part": "3623",
+   "color": "Dark Tan",
+   "x": 0,
+   "y": 2,
+   "z": 22,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower_cap"
+  },
+  {
+   "part": "3021",
+   "color": "Dark Tan",
+   "x": 0,
+   "y": 13,
+   "z": 22,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower_cap"
+  },
+  {
+   "part": "3623",
+   "color": "Dark Tan",
+   "x": 0,
+   "y": 15,
+   "z": 22,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower_cap"
+  },
+  {
+   "part": "3021",
+   "color": "Dark Tan",
+   "x": 13,
+   "y": 0,
+   "z": 22,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower_cap"
+  },
+  {
+   "part": "3623",
+   "color": "Dark Tan",
+   "x": 13,
+   "y": 2,
+   "z": 22,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower_cap"
+  },
+  {
+   "part": "3021",
+   "color": "Dark Tan",
+   "x": 13,
+   "y": 13,
+   "z": 22,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower_cap"
+  },
+  {
+   "part": "3623",
+   "color": "Dark Tan",
+   "x": 13,
+   "y": 15,
+   "z": 22,
+   "rot": 0,
+   "collection": "04_Roof_Details",
+   "group": "tower_cap"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 4,
+   "y": 0,
+   "z": 22,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "pishtaq_merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 7,
+   "y": 0,
+   "z": 22,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "pishtaq_merlon"
+  },
+  {
+   "part": "3004",
+   "color": "Tan",
+   "x": 10,
+   "y": 0,
+   "z": 22,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "pishtaq_merlon"
+  },
+  {
+   "part": "99781",
+   "color": "Tan",
+   "x": 6,
+   "y": 0,
+   "z": 16,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "snot_bracket"
+  },
+  {
+   "part": "99781",
+   "color": "Tan",
+   "x": 8,
+   "y": 0,
+   "z": 16,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "snot_bracket"
+  },
+  {
+   "part": "3022",
+   "color": "Tan",
+   "x": 4,
+   "y": 0,
+   "z": 16,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "pishtaq"
+  },
+  {
+   "part": "3022",
+   "color": "Tan",
+   "x": 10,
+   "y": 0,
+   "z": 16,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "pishtaq"
+  },
+  {
+   "part": "3710",
+   "color": "Tan",
+   "x": 6,
+   "y": 1,
+   "z": 16,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "pishtaq"
+  },
+  {
+   "part": "3034",
+   "color": "Tan",
+   "x": 4,
+   "y": 0,
+   "z": 17,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "pishtaq"
+  },
+  {
+   "part": "2456",
+   "color": "Tan",
+   "x": 4,
+   "y": 0,
+   "z": 18,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "pishtaq"
+  },
+  {
+   "part": "3003",
+   "color": "Tan",
+   "x": 10,
+   "y": 0,
+   "z": 18,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "pishtaq"
+  },
+  {
+   "part": "3020",
+   "color": "Medium Azure",
+   "x": 0,
+   "y": 0,
+   "z": 16,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "snot_panel",
+   "sideways": true,
+   "mm": [
+    64.0,
+    -3.2,
+    59.2
+   ]
+  },
+  {
+   "part": "3069b",
+   "color": "Medium Azure",
+   "x": 0,
+   "y": 0,
+   "z": 16,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "snot_tile",
+   "sideways": true,
+   "mm": [
+    56.0,
+    -6.4,
+    55.2
+   ]
+  },
+  {
+   "part": "3069b",
+   "color": "White",
+   "x": 0,
+   "y": 0,
+   "z": 16,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "snot_tile",
+   "sideways": true,
+   "mm": [
+    72.0,
+    -6.4,
+    55.2
+   ]
+  },
+  {
+   "part": "3069b",
+   "color": "White",
+   "x": 0,
+   "y": 0,
+   "z": 16,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "snot_tile",
+   "sideways": true,
+   "mm": [
+    56.0,
+    -6.4,
+    63.2
+   ]
+  },
+  {
+   "part": "3069b",
+   "color": "Medium Azure",
+   "x": 0,
+   "y": 0,
+   "z": 16,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "snot_tile",
+   "sideways": true,
+   "mm": [
+    72.0,
+    -6.4,
+    63.2
+   ]
+  },
+  {
+   "part": "3034",
+   "color": "Dark Tan",
+   "x": 4,
+   "y": 0,
+   "z": 21,
+   "rot": 0,
+   "collection": "03_Exterior_Facade",
+   "group": "pishtaq_cap"
+  }
+ ]
+}
