@@ -24,6 +24,13 @@ int main(int argc, char** argv) {
 	}
 	printf("map %d.%d pos (%d,%d)\n", (int8_t) core->rawRead8(core, 0x02025738, -1), (int8_t) core->rawRead8(core, 0x02025739, -1),
 	       (int16_t) core->rawRead16(core, 0x02025734, -1), (int16_t) core->rawRead16(core, 0x02025736, -1));
+	for (int i = 0; i < 16; ++i) {  /* gObjectEvents: 0x24 bytes each; active bit0 @+0, localId @+8, mapNum @+9, mapGroup @+10, graphicsId @+5, x @+0x10 */
+		uint32_t b = 0x030048A0 + i * 0x24;
+		if (core->rawRead8(core, b, -1) & 1)
+			printf("object %d: localId %d map %d.%d gfx %d pos (%d,%d)\n", i, core->rawRead8(core, b + 8, -1), core->rawRead8(core, b + 10, -1),
+			       core->rawRead8(core, b + 9, -1), core->rawRead8(core, b + 5, -1), (int16_t) core->rawRead16(core, b + 0x10, -1) - 7,
+			       (int16_t) core->rawRead16(core, b + 0x12, -1) - 7);
+	}
 	/* try walking: right, down, left, up (GBA keys: R=16, L=32, U=64, D=128) */
 	int dirs[] = { 16, 128, 32, 64 };
 	const char* names[] = { "right", "down", "left", "up" };
