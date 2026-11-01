@@ -9,4 +9,4 @@ for i in range(count):
     m = BoxMon(ram, 0x10 + i * 100)
     mv, pp = m.moves()
     sp = decode_text(rom[0x1F716C + m.species() * 11:][:11])
-    print(f'  {sp} Lv{ram[0x10 + i*100 + 84]} checksum_ok={m.checksum_ok()}', [(decode_text(rom[0x1F8320 + x*13:][:13]), p) for x, p in zip(mv, pp)])
+    print(f'  {sp} "{m.nickname}" Lv{ram[0x10 + i*100 + 84]} checksum_ok={m.checksum_ok()}', [(decode_text(rom[0x1F8320 + x*13:][:13]), p) for x, p in zip(mv, pp)])
