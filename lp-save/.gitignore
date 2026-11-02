@@ -5,3 +5,4 @@ tools/drive
 tools/hmtest
 asm/*.o
 asm/*.elf
+data/*.raw
