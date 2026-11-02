@@ -21,7 +21,7 @@ def section_name(sec):
     return decode_text(rom[p - 0x08000000:p - 0x08000000 + 24]) if is_rom_ptr(p) else f'(section {sec})'
 want = sys.argv[2:] if len(sys.argv) > 2 else None
 for g, gp in enumerate(group_ptrs):
-    nxt = min(s for s in starts if s > gp)
+    nxt = min([s for s in starts if s > gp] or [gp + 4 * 64])
     for n in range((nxt - gp) // 4):
         h = u32(gp + n * 4)
         if not is_rom_ptr(h): break
