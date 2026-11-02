@@ -32,7 +32,10 @@ int main(int argc, char** argv) {
 		struct mCheatDevice* dev = core->cheatDevice(core);
 		struct mCheatSet* set = dev->createSet(dev, NULL);
 		mCheatAddSet(dev, set);
-		mCheatAddLine(set, getenv("CHEAT"), 0);
+		static char code[8192];
+		strncpy(code, getenv("CHEAT"), sizeof(code) - 1);
+		for (char* line = strtok(code, "+"); line; line = strtok(NULL, "+"))
+			if (!mCheatAddLine(set, line, 0)) printf("REJECTED %s\n", line);
 	}
 	int boot[][2] = { {0, 600}, {8, 5}, {0, 120}, {1, 5}, {0, 120}, {1, 5}, {0, 240}, {1, 5}, {0, 600} };
 	for (unsigned s = 0; s < sizeof(boot) / sizeof(*boot); ++s) frames(boot[s][0], boot[s][1]);
@@ -53,6 +56,18 @@ int main(int argc, char** argv) {
 		else if (c == 'A') { frames(1, 4); frames(0, 60); }
 		else if (c == 'W') { frames(0, n); }
 		else if (c == 'P') { where("now"); }
+		else if (c == 'X') {  /* screenshot to <out>.<n>.raw */
+			static int shot = 0;
+			char name[512]; snprintf(name, sizeof(name), "%s.%d.raw", argv[3], shot++);
+			FILE* f = fopen(name, "wb");
+			for (int y = 0; y < 160; ++y) fwrite(&buf[y * 256], sizeof(color_t), 240, f);
+			fclose(f);
+		}
+		else if (c == 'K') { frames(n, 4); frames(0, 40); }  /* raw key mask */
+		else if (c == 'T') {  /* T<flag hex>: print a SaveBlock1 flag */
+			int flag = strtol(argv[a] + 1, NULL, 16);
+			printf("flag %#x = %d\n", flag, (core->rawRead8(core, 0x02025734 + 0x1220 + flag / 8, -1) >> (flag % 8)) & 1);
+		}
 	}
 	FILE* out = fopen(argv[3], "wb");
 	for (int y = 0; y < 160; ++y) fwrite(&buf[y * 256], sizeof(color_t), 240, out);
