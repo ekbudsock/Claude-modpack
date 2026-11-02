@@ -2,3 +2,4 @@ tools/boot
 tools/warpcheck
 tools/__pycache__/
 tools/drive
+tools/hmtest
