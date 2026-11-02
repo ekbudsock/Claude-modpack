@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
 	core->setVideoBuffer(core, buf, 256);
 	mCoreInitConfig(core, NULL);
 	mCoreLoadFile(core, argv[1]);
-	mCoreLoadSaveFile(core, argv[2], true);
+	mCoreLoadSaveFile(core, argv[2], getenv("WRITESAVE") == NULL);
 	core->reset(core);
 	if (getenv("CHEAT")) {  /* e.g. CHEAT="3B0C8C5E 96FB832D" */
 		struct mCheatDevice* dev = core->cheatDevice(core);
@@ -72,5 +72,6 @@ int main(int argc, char** argv) {
 	FILE* out = fopen(argv[3], "wb");
 	for (int y = 0; y < 160; ++y) fwrite(&buf[y * 256], sizeof(color_t), 240, out);
 	fclose(out);
+	core->deinit(core);  /* flushes the save file when WRITESAVE is set */
 	return 0;
 }
